@@ -9,7 +9,7 @@ public class GhaLabApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GhaLabApplication.class, args);
 		System.out.println("hello world");
-		//hello new code.
+		// hello new code. with the test
 	}
 
 }
